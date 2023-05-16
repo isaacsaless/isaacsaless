@@ -1,5 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=isaacsaless&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true">
 
+
 ### Tentando aprender HTML 💀
 <br />
   
@@ -12,9 +13,12 @@ Eu também existo aqui.
 <a href="https://open.spotify.com/user/l348aclndiyf1zn01hfgk4e0y" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 
 <br/>
+<div style="display: inline_block">
+  <img align="right" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="right" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="right" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 Esperando o GitHub aceitar minha solicitação de Student 😑
-
 
 </p>
 <hr>
