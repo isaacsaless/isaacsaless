@@ -22,7 +22,7 @@ Esperando o GitHub aceitar minha solicitação de Student 😑
   <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img align="right" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href="https://www.php.net/"><img align="right" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"></a>
   <a href="https://www.python.org/"><img align="right" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
-  <a href="https://www.python.org/"><img align="right" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"></a>
+  <a href="https://www.mysql.com/"><img align="right" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"></a>
 </p>
 <br />
 <hr>
