@@ -10,7 +10,7 @@
   
   <br/>
 
-  <p align='left'>Atualmente cursando o 2° ano de Desenvolvimento de Sistemas 🤓</p>
+  <p align='left'>Atualmente cursando o 3° ano de Desenvolvimento de Sistemas 🤓</p>
   </br>
   <hr>
 
