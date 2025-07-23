@@ -1,6 +1,3 @@
-  ### Tentando aprender Back End 💀
-  </br>
-
   <img align='right' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacsaless&layout=compact&langs_count=6&theme=tokyonight"/>
   <p align='left'>Eu também existo aqui:</p>
 
@@ -27,4 +24,6 @@
   <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"></a>
   <a href="https://www.mysql.com/"><img alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"></a>
   <a href="https://www.postgresql.org/"><img alt="PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"></a>
+  <a href="https://www.docker.com/"><img alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"></a>
+  <a href="https://fastify.dev/"><img alt="Fastify" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg"></a>
 </div>
