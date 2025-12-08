@@ -1,4 +1,3 @@
-  <img align='right' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacsaless&layout=compact&langs_count=6&theme=tokyonight"/>
   <p align='left'>Eu também existo aqui:</p>
 
   <a href="https://www.linkedin.com/in/isaac-sales/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
