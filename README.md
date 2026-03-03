@@ -6,7 +6,7 @@
   
   <br/>
 
-  <p align='left'>Atualmente cursando o 3° ano de Desenvolvimento de Sistemas 🤓</p>
+  <p align='left'>Atualmente cursando o 1° ano de Ciência e Tecnologia 🤓</p>
   </br>
   <hr>
 
